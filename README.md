@@ -7,8 +7,8 @@
 
 ## Material
 
-+ Slides
-+ Implementações
++ [Slides](./material/slides.pdf)
++ [Implementações](./src/)
 + Conteúdo extra
 
 ## Contato
