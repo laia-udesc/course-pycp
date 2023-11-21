@@ -10,3 +10,7 @@
 + Slides
 + Implementações
 + Conteúdo extra
+
+## Contato
+
+**E-mail:** marcelo.desouza [at] udesc.br
