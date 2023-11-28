@@ -9,7 +9,7 @@
 
 + [Slides](./material/slides.pdf)
 + [Implementações](./src/)
-+ Conteúdo extra
++ [Conteúdo extra](./extra/)
 
 ## Contato
 
