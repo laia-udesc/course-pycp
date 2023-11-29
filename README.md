@@ -11,6 +11,9 @@
 + [Implementações](./src/)
 + [Conteúdo extra](./extra/)
 
+E ainda:
++ Link para executar o notebook de ML [aqui](https://colab.research.google.com/github/laia-udesc/course-pycp/blob/main/extra/reconhecimento-escrita.ipynb).
+
 ## Contato
 
 **E-mail:** marcelo.desouza [at] udesc.br
