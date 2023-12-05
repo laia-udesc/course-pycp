@@ -13,6 +13,7 @@
 
 E ainda:
 + Link para executar o notebook de ML [aqui](https://colab.research.google.com/github/laia-udesc/course-pycp/blob/main/extra/reconhecimento-escrita.ipynb).
++ Link para os Desafios de Programação [aqui](https://classroom.google.com/c/NjQ0NTYyNjU2Mzc4?cjc=dx4wpzf)
 
 ## Contato
 
